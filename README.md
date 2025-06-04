@@ -20,7 +20,9 @@
 ### Sobre mim:
 
 🌍 Florianópolis/SC
+
 🎯 Foco em automação, análise de dados, sistemas de backup e desenvolvimento web/desktop
+
 🤝 Sempre aberto para colaborar e aprender em novos projetos
 
 ### GitHub:
