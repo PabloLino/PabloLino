@@ -1,4 +1,4 @@
-<h1 align="center">Oii, Meu nome é Pablo Alexandre Lino 👋</h1>
+<h1 align="left">Olá! Meu nome é Pablo Alexandre Lino 👋</h1>
 <p align="center">
   Graduando em Sistemas de Informação pela Universidade do Sul de Santa Catarina (UNISUL).<br>
   Apaixonado por tecnologia, desenvolvimento de software e soluções inteligentes para o dia a dia.<br>
@@ -42,9 +42,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin-aqui)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PabloLino&style=flat-square&color=blue" alt=""/>
-</div>
