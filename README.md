@@ -1,13 +1,11 @@
-<h1 align="left">Olá! Meu nome é Pablo Alexandre Lino 👋</h1>
+<h3 align="left">Olá! Meu nome é Pablo Alexandre Lino 👋</h3>
 <p align="left">
   Graduando em Sistemas de Informação pela Universidade do Sul de Santa Catarina (UNISUL).<br>
   Apaixonado por tecnologia, desenvolvimento de software e soluções inteligentes para o dia a dia.<br>
   Estou sempre buscando aprender mais e me manter atualizado sobre as tendências da área, em busca de crescimento profissional e realização pessoal.
 </p>
 
----
-
-### 🚀 Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -19,17 +17,13 @@
   <img src="https://img.shields.io/badge/Backup-000000?style=for-the-badge&logo=server&logoColor=white" />
 </p>
 
----
-
-### 💻 Sobre mim
+### Sobre mim:
 
 - 🌍 Florianópolis/SC
 - 🎯 Foco em automação, análise de dados, sistemas de backup e desenvolvimento web/desktop
 - 🤝 Sempre aberto para colaborar e aprender em novos projetos
 
----
-
-### 📊 GitHub
+### GitHub:
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=PabloLino&show_icons=true&theme=tokyonight" height="165"/>
