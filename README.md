@@ -1,7 +1,7 @@
 <h3 align="left">Olá 👋</h3>
 <p align="left">
   Meu nome é Pablo, sou graduando em Sistemas de Informação pela Universidade do Sul de Santa Catarina (UNISUL).<br>
-  Apaixonado por tecnologia, desenvolvimento de software e soluções inteligentes para o dia a dia.<br>
+  Fascinado por tecnologia, desenvolvimento de software e soluções inteligentes para o dia a dia.<br>
   Estou sempre buscando aprender mais e me manter atualizado sobre as tendências da área, em busca de crescimento profissional e realização pessoal.
 </p>
 
