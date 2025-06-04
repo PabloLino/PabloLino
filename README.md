@@ -1,5 +1,5 @@
 <h1 align="left">Olá! Meu nome é Pablo Alexandre Lino 👋</h1>
-<p align="center">
+<p align="left">
   Graduando em Sistemas de Informação pela Universidade do Sul de Santa Catarina (UNISUL).<br>
   Apaixonado por tecnologia, desenvolvimento de software e soluções inteligentes para o dia a dia.<br>
   Estou sempre buscando aprender mais e me manter atualizado sobre as tendências da área, em busca de crescimento profissional e realização pessoal.
