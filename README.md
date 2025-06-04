@@ -1,4 +1,4 @@
-<h3 align="left">Olá! Meu nome é Pablo Alexandre Lino 👋</h3>
+<h3 align="left">Olá 👋</h3>
 <p align="left">
   Graduando em Sistemas de Informação pela Universidade do Sul de Santa Catarina (UNISUL).<br>
   Apaixonado por tecnologia, desenvolvimento de software e soluções inteligentes para o dia a dia.<br>
@@ -19,9 +19,9 @@
 
 ### Sobre mim:
 
-- 🌍 Florianópolis/SC
-- 🎯 Foco em automação, análise de dados, sistemas de backup e desenvolvimento web/desktop
-- 🤝 Sempre aberto para colaborar e aprender em novos projetos
+🌍 Florianópolis/SC
+🎯 Foco em automação, análise de dados, sistemas de backup e desenvolvimento web/desktop
+🤝 Sempre aberto para colaborar e aprender em novos projetos
 
 ### GitHub:
 
