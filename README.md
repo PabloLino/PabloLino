@@ -29,7 +29,7 @@
 
 ---
 
-### 📊 Estatísticas GitHub
+### 📊 GitHub
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=PabloLino&show_icons=true&theme=tokyonight" height="165"/>
@@ -38,7 +38,7 @@
 
 ---
 
-### 🌐 Onde me encontrar
+### 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin-aqui)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
