@@ -26,14 +26,6 @@
 
 🤝 Sempre disponível para colaborar e aprender em novos projetos.
 
-### GitHub:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PabloLino&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloLino&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ### 🌐 Contato
 
