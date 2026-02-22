@@ -54,9 +54,3 @@
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:F7DF1E,50:3776AB,100:0A66C2&height=120&section=footer"
-  />
-</p>
