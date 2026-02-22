@@ -19,7 +19,7 @@
 
 <br>
 
-## 🧰 Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -36,7 +36,7 @@
 
 <br>
 
-## 🙋‍♂️ Sobre mim
+##  Sobre mim
 
 - 🌍 Florianópolis/SC  
 - 🎯 Foco em automação, análise de dados, sistemas de backup e desenvolvimento web/desktop  
