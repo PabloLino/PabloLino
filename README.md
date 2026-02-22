@@ -1,11 +1,5 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:3776AB,100:F7DF1E&height=180&section=header&text=Pablo%20Lino&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1100&color=FFFFFF&center=true&vCenter=true&width=820&lines=Bacharel+em+Sistemas+de+Informação+(UNISUL)+%7C+Pós-grad.+em+IA+e+Ciência+de+Dados;Atualmente+trabalhando+com+Delphi%2C+Python+e+SQL;Fundador+do+site+brquadras.com.br;Apaixonado+por+tecnologia%2C+software+e+soluções+inteligentes"
   />
 </p>
