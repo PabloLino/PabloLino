@@ -2,7 +2,7 @@
 
 <p align="left">
   Meu nome é Pablo, sou Bacharel em Sistemas de Informação pela Universidade do Sul de Santa Catarina (UNISUL) pós-graduando em Inteligência Artificial e Ciência de Dados.<br>
-  Atualmente trabalhando com desenvolvimento de sistemas, colaborando principalemente em projetos em Delphi, Python e SQL.<br>
+  Atualmente trabalhando com desenvolvimento de sistemas, colaborando principalemente em projetos Python e Criação de agentes de inteligência artificial.<br>
   Fundador do site www.brquadras.com.br<br>
   Adoro a área de tecnologia, desenvolvimento de software e soluções inteligentes para o dia a dia.<br>
   Estou sempre buscando aprender mais e me manter atualizado sobre as tendências da área, em busca de crescimento profissional e realização pessoal.
