@@ -1,3 +1,5 @@
+<img src="./assets/animated-divider.svg" width="100%" alt="" />
+
 <h3 align="left">Olá 👋</h3>
 
 <p align="left">
@@ -54,7 +56,6 @@
 - 🎯 Foco em automação, análise de dados, sistemas de backup e desenvolvimento web/desktop  
 - 🤝 Sempre disponível para colaborar e aprender em novos projetos  
 
-<img src="./assets/animated-divider.svg" width="100%" alt="" />
 
 ## 🌐 Contato
 
