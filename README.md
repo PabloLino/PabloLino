@@ -1,5 +1,4 @@
 <img src="./assets/animated-divider.svg" width="100%" alt="" />
-
 <h3 align="left">Olá 👋</h3>
 
 <p align="left">
