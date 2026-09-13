@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Pablo Lino — Desenvolvimento de Software, Inteligência Artificial e Ciência de Dados" />
+</p>
+
 <h3 align="left">Olá 👋</h3>
 
 <p align="left">
@@ -8,9 +12,9 @@
   Estou sempre buscando aprender mais e me manter atualizado sobre as tendências da área, em busca de crescimento profissional e realização pessoal.
 </p>
 
-<br>
+<img src="./assets/animated-divider.svg" width="100%" alt="" />
 
-##  Tecnologias & Ferramentas
+## 🚀 Tecnologias & Ferramentas
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -23,17 +27,41 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Backup-000000?style=for-the-badge&logo=server&logoColor=white" />
+  <img src="https://img.shields.io/badge/IA-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ci%C3%AAncia_de_Dados-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
-<br>
+<img src="./assets/animated-divider.svg" width="100%" alt="" />
 
-##  Sobre mim
+## 💡 Projeto em destaque
+
+<table>
+  <tr>
+    <td width="150" align="center">
+      <a href="https://pablolino.github.io/TrackerTalk-Distribuicao/">
+        <img src="https://pablolino.github.io/TrackerTalk-Distribuicao/assets/trakino.png" width="110" alt="Trakino, mascote do TrackerTalk" />
+      </a>
+    </td>
+    <td>
+      <h3>TrackerTalk</h3>
+      <p><strong>Continuidade local para conversas em terminais de IA.</strong></p>
+      <p>Preserva e organiza conversas iniciadas em CLIs de IA para você retomar o contexto mesmo depois de fechar o terminal ou perder energia.</p>
+      <a href="https://pablolino.github.io/TrackerTalk-Distribuicao/">
+        <img src="https://img.shields.io/badge/Conhecer_o_projeto-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white" alt="Conhecer o projeto TrackerTalk" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<img src="./assets/animated-divider.svg" width="100%" alt="" />
+
+## 🧭 Sobre mim
 
 - 🌍 Florianópolis/SC  
 - 🎯 Foco em automação, análise de dados, sistemas de backup e desenvolvimento web/desktop  
 - 🤝 Sempre disponível para colaborar e aprender em novos projetos  
 
-<br>
+<img src="./assets/animated-divider.svg" width="100%" alt="" />
 
 ## 🌐 Contato
 
@@ -45,3 +73,5 @@
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<img src="./assets/animated-divider.svg" width="100%" alt="" />
