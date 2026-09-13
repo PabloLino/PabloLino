@@ -8,7 +8,6 @@
   Estou sempre buscando aprender mais e me manter atualizado sobre as tendências da área, em busca de crescimento profissional e realização pessoal.
 </p>
 
-<img src="./assets/animated-divider.svg" width="100%" alt="" />
 
 ## 🚀 Tecnologias & Ferramentas
 
@@ -27,7 +26,6 @@
   <img src="https://img.shields.io/badge/Ci%C3%AAncia_de_Dados-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
-<img src="./assets/animated-divider.svg" width="100%" alt="" />
 
 ## 💡 Projeto em destaque
 
@@ -49,7 +47,6 @@
   </tr>
 </table>
 
-<img src="./assets/animated-divider.svg" width="100%" alt="" />
 
 ## 🧭 Sobre mim
 
