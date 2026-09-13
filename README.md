@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Pablo Lino — Desenvolvimento de Software, Inteligência Artificial e Ciência de Dados" />
-</p>
-
 <h3 align="left">Olá 👋</h3>
 
 <p align="left">
